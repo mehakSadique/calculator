@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  calc
+//  Tip Calculator
 //
-//  Created by Mehak Sadique on 9/30/19.
+//  Created by Mehak Sadique on 10/2/19.
 //  Copyright © 2019 Mehak Sadique. All rights reserved.
 //
 

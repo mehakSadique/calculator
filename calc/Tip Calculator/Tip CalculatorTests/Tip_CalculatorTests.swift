@@ -1,15 +1,15 @@
 //
-//  calcTests.swift
-//  calcTests
+//  Tip_CalculatorTests.swift
+//  Tip CalculatorTests
 //
-//  Created by Mehak Sadique on 9/30/19.
+//  Created by Mehak Sadique on 10/2/19.
 //  Copyright © 2019 Mehak Sadique. All rights reserved.
 //
 
 import XCTest
-@testable import calc
+@testable import Tip_Calculator
 
-class calcTests: XCTestCase {
+class Tip_CalculatorTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
